@@ -1,7 +1,7 @@
 opsplorer
 =========
 
-Tree file explorer plugin for Vim
+Tree file explorer plugin for Vim - http://www.vim.org/scripts/script.php?script_id=362
 
 Usage
 -----
